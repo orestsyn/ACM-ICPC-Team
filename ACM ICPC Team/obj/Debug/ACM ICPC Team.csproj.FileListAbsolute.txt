@@ -1,0 +1,7 @@
+D:\VisualProjects\ACM ICPC Team\ACM ICPC Team\bin\Debug\ACM ICPC Team.exe.config
+D:\VisualProjects\ACM ICPC Team\ACM ICPC Team\bin\Debug\ACM ICPC Team.exe
+D:\VisualProjects\ACM ICPC Team\ACM ICPC Team\bin\Debug\ACM ICPC Team.pdb
+D:\VisualProjects\ACM ICPC Team\ACM ICPC Team\obj\Debug\ACM ICPC Team.csprojAssemblyReference.cache
+D:\VisualProjects\ACM ICPC Team\ACM ICPC Team\obj\Debug\ACM ICPC Team.csproj.CoreCompileInputs.cache
+D:\VisualProjects\ACM ICPC Team\ACM ICPC Team\obj\Debug\ACM ICPC Team.exe
+D:\VisualProjects\ACM ICPC Team\ACM ICPC Team\obj\Debug\ACM ICPC Team.pdb
